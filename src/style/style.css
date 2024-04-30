@@ -1,0 +1,27 @@
+.text-home {
+    color: black;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.text_level1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+img {
+    margin-bottom: 20px;
+    width: 430px;
+    height: 400px;
+}
+
+.item_button {
+    background-color: white;
+    border-radius: 5px;
+    border: 2px solid #198754;
+}
+
+.item_button:hover {
+    background-color: #198754;
+    color: white;
+}
